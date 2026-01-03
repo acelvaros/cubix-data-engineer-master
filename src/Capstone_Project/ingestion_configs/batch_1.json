@@ -1,0 +1,26 @@
+{
+    "calendar": {
+        "file_name": "calendar.csv",
+        "primary_key": "Date"
+    },
+    "customers": {
+        "file_name": "customers_1.csv",
+        "primary_key": "CustomerKey"
+    },
+    "products": {
+        "file_name": "products.csv",
+        "primary_key": "ProductKey"
+    },
+    "product_subcategory": {
+        "file_name": "product_subcategory.csv",
+        "primary_key": "ProductSubcategoryKey"
+    },
+    "product_category": {
+        "file_name": "product_category.csv",
+        "primary_key": "ProductCategoryKey"
+    },
+    "sales": {
+        "file_name": "sales_1.csv",
+        "primary_key": "SalesOrderNumber"
+    },
+}

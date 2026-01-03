@@ -1,0 +1,10 @@
+{
+    "customers": {
+        "file_name": "customers_4.csv",
+        "primary_key": "CustomerKey"
+    },
+    "sales": {
+        "file_name": "sales_202407.csv",
+        "primary_key": "SalesOrderNumber"
+    },
+}

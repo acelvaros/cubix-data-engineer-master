@@ -1,0 +1,22 @@
+{
+    "customers": {
+        "file_name": "customers_2.csv",
+        "primary_key": "CustomerKey"
+    },
+    "products": {
+        "file_name": "products_ingest_1.csv",
+        "primary_key": "ProductKey"
+    },
+    "product_subcategory": {
+        "file_name": "product_subcategory_ingest_1.csv",
+        "primary_key": "ProductSubcategoryKey"
+    },
+    "product_category": {
+        "file_name": "product_category_ingest_1.csv",
+        "primary_key": "ProductCategoryKey"
+    },
+    "sales": {
+        "file_name": "sales_202405.csv",
+        "primary_key": "SalesOrderNumber"
+    },
+}
